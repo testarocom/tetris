@@ -22,7 +22,7 @@ let tetro_x = START_X;    //横の位置
 let tetro_y = 0;    //縦の位置
 let tetro_t;        //テトロミノの形
 //ゲームスピード
-let GAME_SPEED = 500;
+let GAME_SPEED = 1000;
 //ゲームオーバー
 let over = false;
 /*----------関数の定義----------*/
